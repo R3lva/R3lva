@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Banner](https://i.imgur.com/ty5K6aR.png)
+<img src="https://i.imgur.com/ty5K6aR.png">
 
 # 👾 Relva · @R3lva
 
