@@ -82,7 +82,7 @@ $ cat status.txt
 
 [![GitHub](https://img.shields.io/badge/GitHub-@R3lva-181717?style=for-the-badge&logo=github)](https://github.com/R3lva)
 [![Discord](https://img.shields.io/badge/Discord-@rt0p-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![Email](https://img.shields.io/badge/Email-relva@proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:relva@onionmail.org)
+[![Email](https://img.shields.io/badge/Email-relva@onionmail.org-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:relva@onionmail.org)
 
 </div>
 
