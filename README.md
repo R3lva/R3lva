@@ -38,10 +38,10 @@ $ cat status.txt
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ###  Lenguages
-![Rust]([https://img.shields.io/badge/Rust-3776AB?style=for-the-badge&logo=rust&logoColor=white])
-![Java]([https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=java&logoColor=white])
-![Batch]([https://img.shields.io/badge/Batch-3776AB?style=for-the-badge&logo=bat&logoColor=white])
-![C]([https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=C&logoColor=white])
+![Rust](https://img.shields.io/badge/Rust-3776AB?style=for-the-badge&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=java&logoColor=white)
+![Batch](https://img.shields.io/badge/Batch-3776AB?style=for-the-badge&logo=bat&logoColor=white)
+![C](https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=C&logoColor=white)
 
 ###  Defense & Analysis
 ![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge&logoColor=white)
