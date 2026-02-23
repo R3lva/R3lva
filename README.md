@@ -16,13 +16,14 @@ $ whoami
   relva — pentester & backend developer
 
 $ cat about.txt
-  → Especialista en seguridad ofensiva y defensiva
-  → Mentalidad Purple Team: ataco para defender
-  → Amante de los CTFs y el hacking ético
-  → Backend dev con foco en herramientas de seguridad
+  → Software development student
+  → Purple Team Mentality: Attack and Defense
+  → Research lover
+  → Creativity when detecting or thinking about threats
+  → DevOps mind (I am interested in the entire world of computing)
 
 $ cat status.txt
-  [ DISPONIBLE PARA PROYECTOS Y COLABORACIONES ]
+ [ AVAILABLE FOR PROJECTS AND COLLABORATIONS ]
 ```
 
 ---
