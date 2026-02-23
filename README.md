@@ -45,7 +45,7 @@ $ cat status.txt
 
 ###  Defense & Analysis
 ![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge&logoColor=white)
-
+![FOFA](https://img.shields.io/badge/FOFA-FF0000?style=for-the-badge&logoColor=white)
 </div>
 
 ---
@@ -73,17 +73,6 @@ $ cat status.txt
 
 </div>
 
----
-
-## 🏴 CTF & Plataformas
-
-<div align="center">
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://hackthebox.com)
-[![CTFtime](https://img.shields.io/badge/CTFtime-2D2D2D?style=for-the-badge&logoColor=white)](https://ctftime.org)
-
-</div>
 
 ---
 
