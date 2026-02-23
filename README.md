@@ -30,23 +30,20 @@ $ cat status.txt
 
 <div align="center">
 
-### 🔓 Offensive Security
+###  Offensive Security
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-E34F26?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-### ⚙️ Backend & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+###  Lenguages
+![Rust]([https://img.shields.io/badge/Rust-3776AB?style=for-the-badge&logo=rust&logoColor=white])
+![Java]([https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=java&logoColor=white])
+![Batch]([https://img.shields.io/badge/Batch-3776AB?style=for-the-badge&logo=bat&logoColor=white])
+![C]([https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=C&logoColor=white])
 
-### 🛡️ Defense & Analysis
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=for-the-badge&logoColor=white)
+###  Defense & Analysis
 ![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge&logoColor=white)
 
 </div>
@@ -57,11 +54,9 @@ $ cat status.txt
 
 | Área | Herramientas |
 |------|-------------|
-| 🔓 **Pentesting** | Metasploit · Burp Suite · SQLMap · Nmap |
+| 🔓 **Pentesting** | Metasploit · Burp Suite · SQLmap · Nmap |
 | 🕵️ **OSINT** | Maltego · Shodan · theHarvester · Recon-ng |
-| 🌐 **Web Security** | OWASP Top 10 · FFUF · Nikto · ZAP |
-| 🛡️ **Purple Team** | MITRE ATT&CK · Splunk · IDS/IPS · SIEM |
-| ⚙️ **Backend** | Python · Node.js · Bash · Docker |
+| ⚙️ **Backend** | Java · C · Rust  |
 | 🐧 **Linux** | Kali · Hardening · Scripting · Automatización |
 
 ---
@@ -97,8 +92,8 @@ $ cat status.txt
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-@R3lva-181717?style=for-the-badge&logo=github)](https://github.com/R3lva)
-[![Discord](https://img.shields.io/badge/Discord-@R3lva-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![Email](https://img.shields.io/badge/Email-relva@proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:relva@proton.me)
+[![Discord](https://img.shields.io/badge/Discord-@rt0p-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Email](https://img.shields.io/badge/Email-relva@proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:relva@onionmail.org)
 
 </div>
 
