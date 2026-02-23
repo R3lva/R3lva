@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://imgur.com/a/ty5K6aR">
+<img src="https://imgur.com/PO1X7rX.png">
 
 # 👾 Relva · @R3lva
 
