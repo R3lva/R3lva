@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.imgur.com/ty5K6aR.png">
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/ty5K6aR" data-context="false" ><a href="//imgur.com/a/ty5K6aR"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 # 👾 Relva · @R3lva
 
