@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Banner](https://i.imgur.com/ty5K6aR.png)](https://github.com/R3lva)
+[![Banner](https://i.imgur.com/ty5K6aR.png)
 
 # 👾 Relva · @R3lva
 
@@ -102,7 +102,7 @@ $ cat status.txt
 <div align="center">
 
 ```
-> Atacar para defender. Defender para aprender. 
+> Hack the planet. 
 > — R3lva
 ```
 
