@@ -68,7 +68,7 @@ $ cat status.txt
 
 ---
 
-##  Contacto
+##  Contact
 
 <div align="center">
 
