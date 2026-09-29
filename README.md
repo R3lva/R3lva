@@ -1,95 +1,38 @@
 <div align="center">
-  
-### Hi I am Relva · @R3lva 👋
-  <br>
-<img src="https://imgur.com/PO1X7rX.png" width="700" height="auto">
-<br>
 
+<!-- Header GIF / Banner Cyberpunk -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z1dnE1NzRvd3A0OWx0NG0yeWxsMmsxNmFsaXBrOWs2aWcxeTJ6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1UrpHiAbY3B6/giphy.gif" width="100%" height="220px" style="object-fit: cover; border-radius: 10px;">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Ethical+Hacker;DevOps;Pentester;Purple+Team+Operator;%3E+whoami+%3A%3A+r3lva)](https://git.io/typing-svg)
+<br><br>
+
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hi%2C+I+am+Relva+%C2%B7+@R3lva;Pentester+%26+Backend+Developer;Purple+Team+Operator;%3E+whoami+%3A%3A+r3lva" alt="Typing SVG" />
+</h1>
+
+<!-- Badges de estado rápido -->
+<img src="https://img.shields.io/badge/Focus-Offensive_%26_Defensive_Security-00F5FF?style=for-the-badge&logo=shieldcheck&logoColor=black" />
+<img src="https://img.shields.io/badge/Status-AVAILABLE_FOR_PROJECTS-00FF66?style=for-the-badge&logo=statuspage&logoColor=black" />
+
+<br><br>
+
+<!-- Separador Neón -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
----
+## 👾 `whoami`
 
 ```bash
-$ whoami
-  relva — pentester & backend developer
-
-$ cat about.txt
-  → Software development student
-  → Purple Team Mentality: Attack and Defense
-  → Research lover
-  → Creativity when detecting or thinking about threats
-  → DevOps mind (I am interested in the entire world of computing)
-
-$ cat status.txt
- [ AVAILABLE FOR PROJECTS AND COLLABORATIONS ]
-```
-
----
-
-
-<div align="center">
-
-###  Tools
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-E34F26?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
-###  Lengs
-![Rust](https://img.shields.io/badge/Rust-3776AB?style=for-the-badge&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=java&logoColor=white)
-![Batch](https://img.shields.io/badge/Batch-3776AB?style=for-the-badge&logo=bat&logoColor=white)
-![C](https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=C&logoColor=white)
-![luau](https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=lua&logoColor=white)
-### More Tools
-![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge&logoColor=white)
-![FOFA](https://img.shields.io/badge/FOFA-FF0000?style=for-the-badge&logoColor=white)
-</div>
-
----
-
-| Área | Herramientas |
-|------|-------------|
-|  **Pentesting** | Metasploit · Burp Suite · SQLmap · Nmap |
-|  **OSINT** | Maltego · Shodan · theHarvester · Recon-ng |
-|  **Backend** | Java · C · Rust · luau |
-|  **Linux** | Kali · Hardening · Scripting · Automatización |
-
----
-
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=R3lva&theme=radical&hide_border=true&background=050810&ring=00F5FF&fire=FF006E&currStreakLabel=00F5FF)
-
-</div>
-
-
----
-
-##  Contact
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-@R3lva-181717?style=for-the-badge&logo=github)](https://github.com/R3lva)
-[![Discord](https://img.shields.io/badge/Discord-@rt0p-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![Email](https://img.shields.io/badge/Email-relva@onionmail.org-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:relva@onionmail.org)
-
-</div>
-
----
-
-<div align="center">
-
-```
-> Hack the planet. 
-> — R3lva
-```
-
-![Visitor Count](https://komarev.com/ghpvc/?username=R3lva&color=00f5ff&style=flat-square&label=VISITAS)
-
-</div>
+┌──(r3lva㉿cyberlab)-[~]
+└─$ cat about_me.json
+{
+  "user": "relva",
+  "role": ["Pentester", "Backend Developer", "DevOps Enthusiast"],
+  "mindset": "Purple Team (Attack & Defense)",
+  "education": "Software Development Student",
+  "core": [
+    "Threat detection & creative exploits",
+    "Security research & lab building",
+    "Automation & infrastructure"
+  ]
+}
