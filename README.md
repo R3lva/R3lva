@@ -104,7 +104,7 @@ Software development student interested in cybersecurity, OSINT, DevOps, Linux a
 <img src="https://img.shields.io/badge/DISCORD-@rt0p-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
-<a href="mailto:relva@onionmail.org">
+<a href="mailto:relvatr@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-CONTACT-745C97?style=for-the-badge&logo=protonmail&logoColor=white"/>
 </a>
 
