@@ -1,141 +1,133 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090914,50:34234E,100:745C97&height=65§ion=header" width="100%"/>
-
-<img src="https://imgur.com/PO1X7rX.png" width="500" alt="Relva"/>
-
-<h2>Relva</h2>
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=17&pause=1200&color=B9A2E8¢er=true&vCenter=true&width=520&height=25&lines=Backend+Software+Engineer;Application+Security+%26+Penetration+Testing;Purple+Team+Operations+%7C+DevSecOps;Navigating+the+Wired..." alt="Typing SVG"/>
+<!-- Header dinámico estilo Modern Dark -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:00E5FF&height=120§ion=header&text=Relva&fontSize=42&fontColor=FFFFFF&fontAlignY=45&desc=Backend%20Developer%20%7C%20Cybersecurity%20Researcher&descSize=16&descAlignY=70&descColor=00E5FF" width="100%"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-9D8AC7?style=flat-square&labelColor=11111B"/>
-<img src="https://img.shields.io/badge/FOCUS-PURPLE_TEAM-B9A2E8?style=flat-square&labelColor=11111B"/>
-<img src="https://img.shields.io/badge/DOMAIN-APPSEC_%26_BACKEND-745C97?style=flat-square&labelColor=11111B"/>
+<!-- Badges de estado y disponibilidad -->
+<img src="https://img.shields.io/badge/Status-Open_to_Work-00E5FF?style=for-the-badge&logo=statuspage&logoColor=0D1117&labelColor=161B22"/>
+<img src="https://img.shields.io/badge/Role-Backend_%26_AppSec-00B8D4?style=for-the-badge&logo=hackthebox&logoColor=FFFFFF&labelColor=161B22"/>
+<img src="https://komarev.com/ghpvc/?username=R3lva&label=Profile%20Views&color=00E5FF&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
+<br>
+
+<!-- Sección 1: Presentación con Objeto 3D animado -->
 <table>
 <tr>
-<td width="72%" valign="middle">
+<td width="65%" valign="middle">
 
-### 01. / Profile Overview
+### 👨‍💻 About Me
 
-**Relva** · `@R3lva`  
-**Backend Developer & Security Researcher**
+Hi, I'm **Relva** (`@R3lva`), a **Software Development Student** focused on building secure, scalable backend systems and identifying vulnerabilities before they reach production.
 
-Software Development student specializing in resilient backend architectures, offensive security, and infrastructure automation. Focused on bridging the gap between development and security through a **Purple Team** methodology—building secure systems by understanding how they are exploited.
+I combine **Backend Engineering** with **Offensive & Defensive Security (Purple Team)** to design resilient architectures and automate infrastructure workflows.
 
-* **Core Focus:** Backend Engineering, Penetration Testing, OSINT & DevSecOps
-* **Methodology:** Purple Team (Offensive Testing & Defensive Hardening)
-* **Availability:** Open to technical collaborations, research, and junior/internship roles
-
-`> "No matter where you go, everyone's connected."`
+* 🏗️ **Building:** Robust APIs, microservices, and CLI automation tools.
+* 🛡️ **Securing:** Web application penetration testing, OSINT, and system hardening.
+* ⚙️ **Automating:** Linux environments, containerization, and CI/CD pipelines.
+* 🤝 **Collaboration:** Open to internships, security research, and open-source projects.
 
 </td>
-<td width="28%" align="center">
+<td width="35%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/VLzbEtlbwJUFljcRbf/giphy.gif" width="165" alt="Lain"/>
-
-<sub>System Integrity & Security</sub>
+<!-- Objeto 3D animado de desarrollo / código -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" alt="3D Developer Animation"/>
 
 </td>
 </tr>
 </table>
 
-### 02. / Technical Stack & Security Tooling
+<br>
+
+<!-- Sección 2: Stack Tecnológico y Herramientas -->
+### 🛠️ Tech Stack & Security Arsenal
 
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
 
-**Languages & Infrastructure**
-
+#### Backend & Infrastructure
 <br>
-
-<img src="https://skillicons.dev/icons?i=java,rust,c,lua,bash&theme=dark" width="215" alt="Languages"/>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode&theme=dark" width="215" alt="Tools"/>
-
+<img src="https://skillicons.dev/icons?i=java,rust,c,lua,bash&theme=dark" alt="Languages"/>
 <br><br>
-
-<sub>Systems Programming · Linux Administration · Containerization · CI/CD</sub>
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode&theme=dark" alt="Infrastructure"/>
+<br><br>
+<sub><b>Core:</b> Systems Programming · REST APIs · Linux Admin · Docker</sub>
 
 </td>
 <td width="50%" align="center" valign="top">
 
-**Offensive Security & Recon**
-
+#### Cybersecurity & Auditing
 <br>
-
-<img src="https://img.shields.io/badge/Kali_Linux-151522?style=flat-square&logo=kalilinux&logoColor=B9A2E8"/>
-<img src="https://img.shields.io/badge/Burp_Suite-151522?style=flat-square&logo=burpsuite&logoColor=B9A2E8"/>
-<img src="https://img.shields.io/badge/Metasploit-151522?style=flat-square&logoColor=B9A2E8"/>
-<img src="https://img.shields.io/badge/Nmap-151522?style=flat-square"/>
-<img src="https://img.shields.io/badge/Wireshark-151522?style=flat-square&logo=wireshark&logoColor=B9A2E8"/>
-
+<img src="https://img.shields.io/badge/Kali_Linux-161B22?style=for-the-badge&logo=kalilinux&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Burp_Suite-161B22?style=for-the-badge&logo=burpsuite&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Wireshark-161B22?style=for-the-badge&logo=wireshark&logoColor=00E5FF"/>
 <br><br>
-
-<img src="https://img.shields.io/badge/Shodan-34234E?style=flat-square"/>
-<img src="https://img.shields.io/badge/FOFA-34234E?style=flat-square"/>
-<img src="https://img.shields.io/badge/SQLmap-34234E?style=flat-square"/>
-
+<img src="https://img.shields.io/badge/Metasploit-161B22?style=for-the-badge&logo=metasploit&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Nmap-161B22?style=for-the-badge&logo=gnu-bash&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Shodan_&_OSINT-161B22?style=for-the-badge&logo=shodan&logoColor=00E5FF"/>
 <br><br>
-
-<sub>Vulnerability Assessment · Network Analysis · Threat Intelligence (OSINT)</sub>
+<sub><b>Focus:</b> Pentesting · Network Analysis · Vulnerability Assessment</sub>
 
 </td>
 </tr>
 </table>
 
----
-
-<table>
-<tr>
-<td width="72%" align="center" valign="middle">
-
-<h3>03. / Connect & Collaborate</h3>
-
-<sub>Available for security research, open-source contributions, and engineering projects.</sub>
-
-<br><br>
-
-<a href="https://github.com/R3lva">
-<img src="https://img.shields.io/badge/GITHUB-@R3lva-181825?style=for-the-badge&logo=github&logoColor=B9A2E8"/>
-</a>
-
-<a href="https://discord.com/">
-<img src="https://img.shields.io/badge/DISCORD-@rt0p-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
-<a href="mailto:relvatr@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-relvatr@gmail.com-745C97?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-<code>root@wired:~$ connection established_</code>
-
-</td>
-<td width="28%" align="center" valign="middle">
-
-<img src="https://media1.tenor.com/m/O8k-DvUjaeEAAAAC/lain-dance.gif" width="115" alt="Lain dancing"/>
-
 <br>
 
-<sub>NODE ONLINE</sub>
-
-</td>
-</tr>
-</table>
+<!-- Sección 3: Widgets de Métricas de GitHub -->
+### GitHub Analytics
 
 <div align="center">
 
-<sub>「 Present day. Present time. 」</sub>
+<!-- Tarjetas de Estadísticas y Lenguajes más usados -->
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=R3lva&show_icons=true&bg_color=0D1117&border_color=30363D&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&hide_rank=false" alt="GitHub Stats"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3lva&layout=compact&bg_color=0D1117&border_color=30363D&title_color=00E5FF&text_color=C9D1D9" alt="Top Languages"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:745C97,50:34234E,100:090914&height=55&section=footer" width="100%"/>
+<br><br>
+
+<!-- Gráfico de Actividad de Contribuciones -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=R3lva&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=false&border_color=30363D" width="95%" alt="Contribution Graph"/>
 
 </div>
+
+<br>
+
+<!-- Sección 4: Contacto con Objeto 3D -->
+### 📬 Get In Touch
+
+<table>
+<tr>
+<td width="30%" align="center" valign="middle">
+
+<!-- Objeto 3D animado de conexión / red -->
+<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="160" alt="3D Network Cube"/>
+
+</td>
+<td width="70%" align="center" valign="middle">
+
+**Interested in working together or discussing cybersecurity & backend engineering?**  
+Feel free to reach out through any of the platforms below:
+
+<br>
+
+<a href="https://github.com/R3lva">
+<img src="https://img.shields.io/badge/GitHub-@R3lva-161B22?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+</a>
+<a href="https://discord.com/">
+<img src="https://img.shields.io/badge/Discord-@rt0p-161B22?style=for-the-badge&logo=discord&logoColor=00E5FF"/>
+</a>
+<a href="mailto:relvatr@gmail.com">
+<img src="https://img.shields.io/badge/Email-relvatr@gmail.com-161B22?style=for-the-badge&logo=gmail&logoColor=00E5FF"/>
+</a>
+
+<br><br>
+
+<sub><i>"Security is not a product, but a process."</i></sub>
+
+</td>
+</tr>
+</table>
