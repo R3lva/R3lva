@@ -6,7 +6,6 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=1200&color=B9A2E8¢er=true&vCenter=true&width=540&height=28&lines=Backend+Software+Engineer;Offensive+Security+%26+Penetration+Testing;Purple+Team+Operations+%7C+Infrastructure+Hardening;root%40relva%3A~%23+.%2Finitialize_session.sh" alt="Typing SVG"/>
 
 <br>
 
