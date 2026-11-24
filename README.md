@@ -6,18 +6,32 @@
 <!-- Banner principal -->
 <img src="https://imgur.com/PO1X7rX.png" width="460" alt="Relva"/>
 
-<br><br>
+<br>
 
-### Resilient systems. Verified by attack.
-
-<sub>Backend engineering &nbsp;/&nbsp; Offensive security &nbsp;/&nbsp; Infrastructure automation</sub>
+<!-- Texto animado -->
+<a href="https://github.com/R3lva">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3200&pause=1400&color=FFFFFF&center=true&vCenter=true&width=560&height=32&lines=Resilient+systems.+Verified+by+attack.;Backend+engineering+%2F+Offensive+security;Build.+Break.+Harden." alt="Typing SVG"/>
+</a>
 
 <br><br>
 
 <!-- Estado -->
 <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-262626?style=flat-square&labelColor=000000"/>
 <img src="https://img.shields.io/badge/ROLE-BACKEND_%26_APPSEC-262626?style=flat-square&labelColor=000000"/>
+<img src="https://img.shields.io/badge/METHOD-PURPLE_TEAM-262626?style=flat-square&labelColor=000000"/>
 <img src="https://komarev.com/ghpvc/?username=R3lva&label=VIEWS&color=262626&style=flat-square" alt="Views"/>
+
+<br><br>
+
+<!-- Navegación tipo menú -->
+<sub>
+<a href="#01--profile"><code>PROFILE</code></a> &nbsp;/&nbsp;
+<a href="#02--focus-areas"><code>FOCUS</code></a> &nbsp;/&nbsp;
+<a href="#03--method"><code>METHOD</code></a> &nbsp;/&nbsp;
+<a href="#04--stack"><code>STACK</code></a> &nbsp;/&nbsp;
+<a href="#05--metrics--activity"><code>METRICS</code></a> &nbsp;/&nbsp;
+<a href="#06--contact"><code>CONTACT</code></a>
+</sub>
 
 </div>
 
@@ -26,11 +40,11 @@
 ---
 
 <!-- 01 -->
+### `01 / PROFILE`
+
 <table>
 <tr>
 <td width="68%" valign="middle">
-
-### `01 / PROFILE`
 
 **Relva** (`@R3lva`) is a Software Development student specialized in **backend engineering**, **offensive security** and **infrastructure automation**.
 
@@ -38,16 +52,7 @@ I build services designed to withstand failure, then audit them the way an attac
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=java,rust,c,lua,bash,linux,docker,git&theme=dark&perline=8" height="34" alt="Core Stack"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Kali_Linux-000000?style=flat-square&logo=kalilinux&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Burp_Suite-000000?style=flat-square&logo=burpsuite&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Wireshark-000000?style=flat-square&logo=wireshark&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Metasploit-262626?style=flat-square&logo=metasploit&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Nmap-262626?style=flat-square"/>
-<img src="https://img.shields.io/badge/OSINT-404040?style=flat-square"/>
+**Open to work** in backend and application security roles.
 
 </td>
 <td width="32%" align="center" valign="middle">
@@ -100,9 +105,109 @@ Repeatable environments on Linux with Bash, Docker and Git, so deployments and t
 ---
 
 <!-- 03 -->
+### `03 / METHOD`
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+`PHASE 01`
+
+**Build**
+
+Design the service with least privilege, clear boundaries and safe defaults.
+
+</td>
+<td width="25%" valign="top">
+
+`PHASE 02`
+
+**Break**
+
+Attack it as an adversary would: scan, probe, exploit, document.
+
+</td>
+<td width="25%" valign="top">
+
+`PHASE 03`
+
+**Harden**
+
+Fix the root cause, not the symptom, and close the exposed path.
+
+</td>
+<td width="25%" valign="top">
+
+`PHASE 04`
+
+**Verify**
+
+Re-test and automate the check so the fix stays fixed.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<!-- 04 -->
+### `04 / STACK`
+
+<table>
+<tr>
+<td width="34%" valign="top">
+
+`LANGUAGES`
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=java,rust,c,lua,bash&theme=dark&perline=5" height="34" alt="Languages"/>
+
+</td>
+<td width="33%" valign="top">
+
+`SYSTEMS & INFRA`
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=linux,docker,git&theme=dark&perline=3" height="34" alt="Systems and infrastructure"/>
+
+</td>
+<td width="33%" valign="top">
+
+`OFFENSIVE TOOLING`
+
+<br>
+
+<img src="https://img.shields.io/badge/Kali_Linux-000000?style=flat-square&logo=kalilinux&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Burp_Suite-000000?style=flat-square&logo=burpsuite&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Wireshark-000000?style=flat-square&logo=wireshark&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Metasploit-262626?style=flat-square&logo=metasploit&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Nmap-262626?style=flat-square"/>
+<img src="https://img.shields.io/badge/OSINT-404040?style=flat-square"/>
+
+</td>
+</tr>
+</table>
+
+<!--
+OPCIONAL: añade aquí tus plataformas de práctica si las usas (cambia USERNAME).
+<div align="center">
+<a href="https://tryhackme.com/p/USERNAME"><img src="https://img.shields.io/badge/TRYHACKME-USERNAME-000000?style=for-the-badge&logo=tryhackme&logoColor=FFFFFF"/></a>
+<a href="https://app.hackthebox.com/profile/USERNAME"><img src="https://img.shields.io/badge/HACKTHEBOX-USERNAME-262626?style=for-the-badge&logo=hackthebox&logoColor=FFFFFF"/></a>
+</div>
+-->
+
+<br>
+
+---
+
+<!-- 05 -->
 <div align="center">
 
-### `03 / METRICS & ACTIVITY`
+### `05 / METRICS & ACTIVITY`
 
 <table>
 <tr>
@@ -117,6 +222,16 @@ Repeatable environments on Linux with Bash, Docker and Git, so deployments and t
 
 <br>
 
+<!-- Trofeos -->
+<img src="https://github-profile-trophy.vercel.app/?username=R3lva&theme=alduin&no-frame=true&no-bg=true&row=7&column=7&margin-w=12&margin-h=12" alt="GitHub Trophies"/>
+
+<br><br>
+
+<!-- Gráfico de actividad -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=R3lva&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF&hide_border=true&radius=0&custom_title=Contribution%20Activity" width="92%" alt="Activity Graph"/>
+
+<br><br>
+
 <!-- Serpiente de contribuciones -->
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="92%" alt="Contribution Snake"/>
 
@@ -127,7 +242,12 @@ Repeatable environments on Linux with Bash, Docker and Git, so deployments and t
 
 <br><br>
 
-### `04 / CONTACT`
+<!-- 06 -->
+### `06 / CONTACT`
+
+<sub>Open to backend and application security opportunities. Reach out for roles, audits or collaboration.</sub>
+
+<br><br>
 
 <a href="https://github.com/R3lva">
 <img src="https://img.shields.io/badge/GITHUB-@R3lva-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
