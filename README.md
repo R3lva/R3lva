@@ -8,8 +8,7 @@
 
 <br><br>
 
-<!-- Subtítulo Dinámico -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&color=B9A2E8¢er=true&vCenter=true&width=500&height=24&lines=Backend+Software+Engineer+%26+Security+Researcher;Offensive+Security+%7C+Purple+Team+%7C+Linux+Automation;root%40relva%3A~%23+.%2Fdeploy_environment.sh" alt="Typing SVG"/>
+
 
 <br>
 
@@ -50,7 +49,7 @@ Focused on building resilient architectures and auditing systems through a **Pur
 <td width="32%" align="center" valign="middle">
 
 <!-- GIF clásico usado en perfiles de GitHub de ciberseguridad/dev -->
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="185" alt="Terminal Code Matrix"/>
+<img src="[https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG02NW40aHZyenJlM29tbHM4b2YyaDI2YjRpeGhpdnF1Y2NoZ2VicCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d3mm8K5DCeigO3Go/giphy.gif)" width="185" alt="Terminal Code Matrix"/>
 
 <br>
 
