@@ -1,98 +1,105 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090914,50:34234E,100:745C97&height=65&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090914,50:34234E,100:745C97&height=65§ion=header" width="100%"/>
 
 <img src="https://imgur.com/PO1X7rX.png" width="500" alt="Relva"/>
 
-<h2>👋 Hey, I'm Relva</h2>
+<h2>Relva</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=17&pause=1200&color=B9A2E8&center=true&vCenter=true&width=470&height=25&lines=Backend+Developer;Ethical+Hacker+%26+Pentester;Purple+Team+%7C+DevOps;Exploring+the+Wired..." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=17&pause=1200&color=B9A2E8¢er=true&vCenter=true&width=520&height=25&lines=Backend+Software+Engineer;Application+Security+%26+Penetration+Testing;Purple+Team+Operations+%7C+DevSecOps;Navigating+the+Wired..." alt="Typing SVG"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/AVAILABLE-9D8AC7?style=flat-square&labelColor=11111B"/>
-<img src="https://img.shields.io/badge/PURPLE_TEAM-B9A2E8?style=flat-square&labelColor=11111B"/>
-<img src="https://img.shields.io/badge/THE_WIRED-745C97?style=flat-square&labelColor=11111B"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-9D8AC7?style=flat-square&labelColor=11111B"/>
+<img src="https://img.shields.io/badge/FOCUS-PURPLE_TEAM-B9A2E8?style=flat-square&labelColor=11111B"/>
+<img src="https://img.shields.io/badge/DOMAIN-APPSEC_%26_BACKEND-745C97?style=flat-square&labelColor=11111B"/>
 
 </div>
 
 <table>
 <tr>
-<td width="70%" valign="middle">
+<td width="72%" valign="middle">
 
-### 01. / Whoami
+### 01. / Profile Overview
 
-**Relva** · `@R3lva`
+**Relva** · `@R3lva`  
+**Backend Developer & Security Researcher**
 
-Backend Developer & Pentester
+Software Development student specializing in resilient backend architectures, offensive security, and infrastructure automation. Focused on bridging the gap between development and security through a **Purple Team** methodology—building secure systems by understanding how they are exploited.
 
-Software development student interested in cybersecurity, OSINT, DevOps, Linux and automation.
+* **Core Focus:** Backend Engineering, Penetration Testing, OSINT & DevSecOps
+* **Methodology:** Purple Team (Offensive Testing & Defensive Hardening)
+* **Availability:** Open to technical collaborations, research, and junior/internship roles
 
-**Mindset:** Purple Team  
-**Status:** Open to collaborations
-
-`> No matter where you go, everyone's connected.`
+`> "No matter where you go, everyone's connected."`
 
 </td>
-<td width="30%" align="center">
+<td width="28%" align="center">
 
 <img src="https://media.giphy.com/media/VLzbEtlbwJUFljcRbf/giphy.gif" width="165" alt="Lain"/>
 
-<sub>Let's all love hack.</sub>
+<sub>System Integrity & Security</sub>
 
 </td>
 </tr>
 </table>
 
-### 02. / Tech & Security
+### 02. / Technical Stack & Security Tooling
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
-**Languages & Development**
-
-<img src="https://skillicons.dev/icons?i=java,rust,c,lua,bash&theme=dark" width="205" alt="Languages"/>
-
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode&theme=dark" width="205" alt="Tools"/>
-
-</td>
-<td width="50%" align="center">
-
-**Security Arsenal**
-
-<img src="https://img.shields.io/badge/Kali-151522?style=flat-square&logo=kalilinux&logoColor=B9A2E8"/>
-<img src="https://img.shields.io/badge/Burp_Suite-151522?style=flat-square&logo=burpsuite&logoColor=B9A2E8"/>
-<img src="https://img.shields.io/badge/Metasploit-151522?style=flat-square"/>
-<img src="https://img.shields.io/badge/Nmap-151522?style=flat-square"/>
-<img src="https://img.shields.io/badge/Wireshark-151522?style=flat-square&logo=wireshark"/>
+**Languages & Infrastructure**
 
 <br>
+
+<img src="https://skillicons.dev/icons?i=java,rust,c,lua,bash&theme=dark" width="215" alt="Languages"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode&theme=dark" width="215" alt="Tools"/>
+
+<br><br>
+
+<sub>Systems Programming · Linux Administration · Containerization · CI/CD</sub>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+**Offensive Security & Recon**
+
+<br>
+
+<img src="https://img.shields.io/badge/Kali_Linux-151522?style=flat-square&logo=kalilinux&logoColor=B9A2E8"/>
+<img src="https://img.shields.io/badge/Burp_Suite-151522?style=flat-square&logo=burpsuite&logoColor=B9A2E8"/>
+<img src="https://img.shields.io/badge/Metasploit-151522?style=flat-square&logoColor=B9A2E8"/>
+<img src="https://img.shields.io/badge/Nmap-151522?style=flat-square"/>
+<img src="https://img.shields.io/badge/Wireshark-151522?style=flat-square&logo=wireshark&logoColor=B9A2E8"/>
+
+<br><br>
 
 <img src="https://img.shields.io/badge/Shodan-34234E?style=flat-square"/>
 <img src="https://img.shields.io/badge/FOFA-34234E?style=flat-square"/>
 <img src="https://img.shields.io/badge/SQLmap-34234E?style=flat-square"/>
 
+<br><br>
+
+<sub>Vulnerability Assessment · Network Analysis · Threat Intelligence (OSINT)</sub>
+
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-<sub>Pentesting · OSINT · Backend · Linux · DevOps · Purple Team</sub>
-
-</div>
 
 ---
 
 <table>
 <tr>
-<td width="70%" align="center" valign="middle">
+<td width="72%" align="center" valign="middle">
 
-<h3>03. / Connect to the Wired</h3>
+<h3>03. / Connect & Collaborate</h3>
 
-<sub>Open to projects, research and collaborations.</sub>
+<sub>Available for security research, open-source contributions, and engineering projects.</sub>
 
 <br><br>
 
@@ -105,7 +112,7 @@ Software development student interested in cybersecurity, OSINT, DevOps, Linux a
 </a>
 
 <a href="mailto:relvatr@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-745C97?style=for-the-badge&logo=protonmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-relvatr@gmail.com-745C97?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
@@ -113,13 +120,13 @@ Software development student interested in cybersecurity, OSINT, DevOps, Linux a
 <code>root@wired:~$ connection established_</code>
 
 </td>
-<td width="30%" align="center" valign="middle">
+<td width="28%" align="center" valign="middle">
 
 <img src="https://media1.tenor.com/m/O8k-DvUjaeEAAAAC/lain-dance.gif" width="115" alt="Lain dancing"/>
 
 <br>
 
-<sub>YOU ARE CONNECTED.</sub>
+<sub>NODE ONLINE</sub>
 
 </td>
 </tr>
