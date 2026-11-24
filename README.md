@@ -49,7 +49,7 @@ Focused on building resilient architectures and auditing systems through a **Pur
 <td width="32%" align="center" valign="middle">
 
 <!-- GIF clásico usado en perfiles de GitHub de ciberseguridad/dev -->
-<img src="[https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG02NW40aHZyenJlM29tbHM4b2YyaDI2YjRpeGhpdnF1Y2NoZ2VicCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d3mm8K5DCeigO3Go/giphy.gif)" width="185" alt="Terminal Code Matrix"/>
+<img src="https://media.giphy.com/media/d3mm8K5DCeigO3Go/giphy.gif" width="185" alt="Terminal Code Matrix"/>
 
 <br>
 
