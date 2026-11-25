@@ -67,6 +67,9 @@ I research systems and vulnerabilities, and I build services I'm willing to atta
 <td width="50%" align="center">
 <a href="https://github.com/R3lva/Advanced-Malware-on-RUST"><img src="https://github-readme-stats.vercel.app/api/pin/?username=R3lva&repo=Advanced-Malware-on-RUST&bg_color=000000&border_color=2a2a2a&title_color=FFFFFF&text_color=A3A3A3&icon_color=FFFFFF&border_radius=0" alt="Advanced-Malware-on-RUST"/></a>
 </td>
+  <td width="50%" align="center">
+<a href="https://github.com/R3lva/0Selvax"><img src="https://github-readme-stats.vercel.app/api/pin/?username=R3lva&repo=0Selvax&bg_color=000000&border_color=2a2a2a&title_color=FFFFFF&text_color=A3A3A3&icon_color=FFFFFF&border_radius=0" alt="0Selvax"/></a>
+</td>
 <td width="50%" align="center">
 <a href="https://github.com/R3lva/Criptografy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=R3lva&repo=Criptografy&bg_color=000000&border_color=2a2a2a&title_color=FFFFFF&text_color=A3A3A3&icon_color=FFFFFF&border_radius=0" alt="Criptografy"/></a>
 </td>
@@ -83,9 +86,7 @@ I research systems and vulnerabilities, and I build services I'm willing to atta
 <td width="50%" align="center">
 <a href="https://github.com/R3lva/JuegoJava"><img src="https://github-readme-stats.vercel.app/api/pin/?username=R3lva&repo=JuegoJava&bg_color=000000&border_color=2a2a2a&title_color=FFFFFF&text_color=A3A3A3&icon_color=FFFFFF&border_radius=0" alt="JuegoJava"/></a>
 </td>
-<td width="50%" align="center">
-<a href="https://github.com/R3lva/42Troll"><img src="https://github-readme-stats.vercel.app/api/pin/?username=R3lva&repo=42Troll&bg_color=000000&border_color=2a2a2a&title_color=FFFFFF&text_color=A3A3A3&icon_color=FFFFFF&border_radius=0" alt="42Troll"/></a>
-</td>
+
 </tr>
 </table>
 
